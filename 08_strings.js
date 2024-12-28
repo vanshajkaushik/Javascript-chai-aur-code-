@@ -10,3 +10,5 @@ const gamename =  new String('vanshaj') //make sure the S in String is capital
 console.log(gamename) // here the string is not an array it just stores each value in key value pair format 
 
 // later we can copy this format in the console of our browser and can find different other features (can have reference from the video) 
+
+// There are different methods in strings which should be seen from console in browser and later studied from mdn's
