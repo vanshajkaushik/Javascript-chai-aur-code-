@@ -8,3 +8,6 @@ console.log(null >= 0) //3
 // this would give very different answers because equality check and comparison operators work different
 // in 1 only the comparison operator works hence the answer is false 
 // whereas in 3 equaltiy check converts null to 0 which is equal to 0 hence the answer comes to true
+
+console.log("2" === 2) // here the answer comes to false bcuz this is the case of strict check 
+// in strict check it doesnot convert the datatype rather it would check if the datatypes are same or not `
