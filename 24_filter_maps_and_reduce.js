@@ -7,4 +7,4 @@ const newnums = mynums.filter((num)=>{
 
 console.log(newnums);
 // To do the same thing using filter we would have to use if condition that would work too  
-//for reduce please refer to the video - for better understanding go to last 10 mins..
+//for reduce please refer to the video - for better understanding go to last 10 mins.. 
