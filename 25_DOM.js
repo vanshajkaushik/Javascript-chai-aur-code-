@@ -9,3 +9,5 @@
 //li.style.color = 'orange'
 //})
 //to create an element we use document.createelement("element name")
+
+//For better understanding of DOM please refer to the videos... 
